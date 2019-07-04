@@ -1,0 +1,7 @@
+E:\R WS\Tavisca WS\C Sharp\FirstAssignment\FirstAssignment\bin\Debug\FirstAssignment.exe.config
+E:\R WS\Tavisca WS\C Sharp\FirstAssignment\FirstAssignment\bin\Debug\FirstAssignment.exe
+E:\R WS\Tavisca WS\C Sharp\FirstAssignment\FirstAssignment\bin\Debug\FirstAssignment.pdb
+E:\R WS\Tavisca WS\C Sharp\FirstAssignment\FirstAssignment\obj\Debug\FirstAssignment.csprojAssemblyReference.cache
+E:\R WS\Tavisca WS\C Sharp\FirstAssignment\FirstAssignment\obj\Debug\FirstAssignment.csproj.CoreCompileInputs.cache
+E:\R WS\Tavisca WS\C Sharp\FirstAssignment\FirstAssignment\obj\Debug\FirstAssignment.exe
+E:\R WS\Tavisca WS\C Sharp\FirstAssignment\FirstAssignment\obj\Debug\FirstAssignment.pdb
